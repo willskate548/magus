@@ -186,7 +186,7 @@ fi
 
 mkdir -p /var/www/html/mbilling
 cd /var/www/html/mbilling
-wget --no-check-certificate	https://raw.githubusercontent.com/willskate548/magfile/main/MagnusBilling-modded.tar.gz
+wget --no-check-certificate https://raw.githubusercontent.com/willskate548/magfile/main/MagnusBilling-modded.tar.gz
 tar xzf MagnusBilling-current.tar.gz
 
 echo
